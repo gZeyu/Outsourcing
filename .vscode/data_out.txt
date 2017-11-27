@@ -1,0 +1,1 @@
+Enter the number of processes to schedule: Enter the burst time of process 1: Enter the burst time of process 2: Enter the burst time of process 3: Enter the length of the time quantum q: 
